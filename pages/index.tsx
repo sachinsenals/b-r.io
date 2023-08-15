@@ -85,9 +85,8 @@ export default function Home({ posts }: HomeProps) {
             className="text-primary max-w-lg animate-in"
             style={{ "--index": 2 } as React.CSSProperties}
           >
-            Hi, I&apos;m Brian Ruiz, a software engineer who loves building cool
-            things with code. In addition to coding, I also make YouTube videos,
-            where I focus on tech, creative vlogs, and personal development.
+            I'm a passionate open-source developer obsessed with cloud In a word, I went to university but ended up resigning as it was utterly worthless for me. I took a ton of online classes also achieved ICCA cloud certification from ine.com and I learn Lot of things from open source. and I have been self-learning for a very long time 📖.
+            Inspiration: I created FIXARR since I couldn't find any free Re-Namer when I searched for it. The most of them are paid options, but some Open-Source tools weren't functioning properly, so I had to create Free & Open-Source FIXARR You can find it on my GitHub page. 
           </p>
           <ul
             className="flex flex-col md:flex-row gap-2 md:gap-6 text-secondary animated-list animate-in"
